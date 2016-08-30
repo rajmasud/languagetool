@@ -2,6 +2,12 @@ LanguageTool is an Open Source proofreading software for English, French, German
 Polish, Russian, and [more than 20 other languages](https://languagetool.org/languages/).
 It finds many errors that a simple spell checker cannot detect.
 
+This software is used on those web pages:
+Trend Blog: https://blog.onetopp.com
+IT & Technology Trends: https://www.onetopp.com
+Kino, Spass und Unterhaltung: https://www.buzzerstar.com
+Entertainment News: https://www.buzzerstar.net
+
 LanguageTool is freely available under the LGPL 2.1 or later.
 
 For more information, please see our homepage at https://languagetool.org,
